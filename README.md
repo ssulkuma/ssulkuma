@@ -1,16 +1,17 @@
-### Hi there 👋
+<b>Hey there</b> 👻
 
-<!--
-**ssulkuma/ssulkuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative and inquisitive aspiring game developer here. Currently studying coding at Hive Helsinki and in search of an internship to further improve my programming skills and establish myself in the game industry. With a strong belief in uniqueness and with the heart of a dreamer, I strive to create moments that leave a lasting impact, be it in a whimsical way to solve a problem or a new way to look at the world. 
 
-Here are some ideas to get you started:
+<b>Projects I'm currently working on </b></br>
+✦ Doom Nukem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Learning </b></br>
+✦ More C# and Unity </br>
+✦ C++ </br>
+
+<b>Programming languages and tools currently part of my kit </b></br>
+✦ C </br>
+✦ C# </br>
+✦ Unity </br>
+✦ HTML </br>
+✦ CSS </br>
